@@ -3,13 +3,43 @@
 }
 
 body {
-    background-color: rgb(252, 192, 252);
+    background-color: rgb(144, 151, 241);
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 650px;
     margin: auto;
     padding: 15px;
     box-shadow: 3px 3px 5px black;
+    border-radius: 40px;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(58, 0, 112);
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(58, 0, 112);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(58, 0, 112);
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(26, 26, );
+}
+
+img.lado {
+    float: right;
+    padding: 5px 5px 50px 5px;
+}
+abbr {
+    font-weight: bolder;
 }
