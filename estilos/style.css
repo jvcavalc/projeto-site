@@ -33,7 +33,11 @@ a {
 
 a:hover{
     text-decoration: underline;
+<<<<<<< Updated upstream
     color: rgb(26, 26, );
+=======
+    color: rgb(26, 26, 255);
+>>>>>>> Stashed changes
 }
 
 img.lado {
